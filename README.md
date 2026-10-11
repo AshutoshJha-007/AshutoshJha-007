@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: I'm currently building scalable data pipelines and end-to-end data engineering projects.<br>👯 I'm looking to collaborate on: I'm looking to collaborate on open-source data engineering and analytics projects.<br>🤝 I'm looking for help with: I'm looking for help with Apache Spark, Apache Airflow, and cloud-native data engineering.<br>🌱 I'm currently learning: I'm currently learning Apache Spark, Airflow, dbt, and advanced AWS services for data engineering.<br>💬 Ask me about: Ask me about Python, SQL, ETL pipelines, data warehousing, Power BI, Tableau, and AWS.<br>⚡ Fun fact: I enjoy solving complex data problems and turning raw data into meaningful business insights.
+🔭 I'm currently building scalable data pipelines and end-to-end data engineering projects.<br>👯 I'm looking to collaborate on open-source data engineering and analytics projects.<br>🤝  I'm looking for help with Apache Spark, Apache Airflow, and cloud-native data engineering.<br>🌱 I'm currently learning Apache Spark, Airflow, dbt, and advanced AWS services for data engineering.<br>💬 Ask me about Python, SQL, ETL pipelines, data warehousing, Power BI, Tableau, and AWS.<br>⚡ Fun fact: I enjoy solving complex data problems and turning raw data into meaningful business insights.
 
 
 ## 🌐 Socials:
